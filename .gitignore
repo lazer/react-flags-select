@@ -1,8 +1,5 @@
 /coverage
-/es
 /node_modules
-/umd
 npm-debug.log*
 .DS_Store
 *.icloud
-/css/

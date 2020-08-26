@@ -1,7 +1,4 @@
-"use strict";
-
-exports.__esModule = true;
-exports.default = {
+export default {
     "AF": "Afghanistan",
     "AL": "Albania",
     "DZ": "Algeria",
@@ -223,4 +220,3 @@ exports.default = {
     "ZM": "Zambia",
     "ZW": "Zimbabwe"
 };
-module.exports = exports["default"];
